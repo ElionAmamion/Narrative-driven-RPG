@@ -1,4 +1,3 @@
-import functions
+from dialogue import *
 from Player import Player
-
-Player = Player(Name="Eoin", Lv=5)
+from functions import *
